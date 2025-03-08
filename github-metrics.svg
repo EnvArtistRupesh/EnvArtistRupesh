@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1394" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1414" class="">
     <defs>
         <style/>
     </defs>
@@ -38,8 +38,8 @@
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -171,7 +171,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    10.7 MB used
+                                    10.9 MB used
                                 </div>
                             </section>
                             <section>
@@ -2237,6 +2237,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-8.5, 11)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2422,7 +2427,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        7 hours played
+                                        10 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2439,27 +2444,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            2 / 19 achievements unlocked
+                                            4 / 19 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwQABQYH/8QAKBAAAgICAgEDBAIDAAAAAAAAAQIDBAUREiEABiIxBxNBURQVMlJx/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgQBAwX/xAAlEQABBAAEBgMAAAAAAAAAAAABAAIDEQQxUZEFEhMhQXHB4fD/2gAMAwEAAhEDEQA/AMA8rGzBVrxGe1MTwiVgCQBssd/AH78aWnkJJHhhqRyWYtfehW1Hyi3/AI8u/wAjvyej0jNezdpQ88hUomKQnRkktNssDv51wUAfHu8aqiWC9ipVxd6fLAM08wgMcbB5NSEjl03fIE9aGtd9Y83EJA8tYKrXXfJLOmN0FVXJZsfegq5KuKrzo0iFpkYaXW96PXz4VXRiwV1Yr8gEHX/fD52OO9mYL8ys8Mk8ldCiBmEEZRWZQQeyTIR1+vNL6zxvoiHEWMlgctkUzcEsSCtkSY3sxvIFYBWVS2gd7GyOPfz45g8Q6Zo5qv38faJs10CFzbPxiTGY2JcVDDPAjGxa2JmnmYjbseOwNAhQQQN+XHpuxHTw8EAxklW1HOzpfqukUhiYDaMjKeS72VDdjrWvD+Ty5+HjfH0yO13+3TJcSST5SmVeX+vSGt/M4VI2irmSSADidA79m9kD973+fM/SjuO1mGDmvPbFQPtjohk5Bl70wUn5Ogfd350z6fTY6v6shkzUmLix4ryiRsguwCykL9vo+/kV7/15eHM2Hh+nqUBZxc96KBIwsMfKdrq2SXmDlQxiMPQO9EaGt+THAyNpa0ZoCBd0v//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABQADBAYHAv/EACYQAAICAQQBBAMBAQAAAAAAAAECAwQRAAUSIQYTFDFRIjJBYXH/xAAYAQACAwAAAAAAAAAAAAAAAAABBAIDBf/EACURAAEEAAQGAwAAAAAAAAAAAAEAAgMRBCExUQUSE0FxkcHh8P/aAAwDAQACEQMRAD8AoLysbMFWvEZ7UxPCJWAJAGSxz8AfepK09wkkeGGpHJZix60K2o+UWf15d/0d6XhyRmvZu0oee4VKJikJwZJLTZLA5+ccFAHx+WpVUSwXtqlXa70+7AM08wgMcbB5MSEjl03fIE9YGMd9Y83EJA8tYKrff3olnTG6CFXJZtvvQVdyriq86NIhaZGGFxnOD186dV0YkK6sV+QCDj/un99jju7zBfmVnhknkroUQMwgjKKzKCD2SZCOvrVl8z23wiHaLG5bDu24x73BLEgrbkTG9mN5ArAKyqWwDnIyRx7+dOYPEOmaOar8/H2iya6BCzbf4xJtm2xLtUMM8CMbFrImaxMxGXY8cgYBCgggZ0Y8asR1NnggG2SVrUc7Ol+q6RSGJgMoyMp5LnJUN2OsY0/riYExkAqCSBl/1HY/b/Pv/M6ufh43x9MjK7/e00XEkk98lG3OZ229IKjWilRHhrmSWDGDgHOEzyIH3kH+6AUo7rtZgg5rzyxXHpjohk5Bl7wwUn5OAfy71uS3PHYfKprUd/xhGm2+jHG0cQarC8cie7XiUIUvHyCf0gEDB0K3i743J4nag2j2cSEn2tVocXEse7ZvULceXp+34jtsYwuM6McLI2lrRqoEC7pf/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Newbie Garbage Collector</div>
-                                                <div class="unlocked">6 Mar 2025</div>
+                                                <div>Apprentice Garbage Collector</div>
+                                                <div class="unlocked">7 Mar 2025</div>
                                             </div>
-                                            <div class="description">Delivery 10 garbage</div>
+                                            <div class="description">Deliver 100 garbage</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAABQADBggCBAf/xAAtEAACAQMDAgMHBQAAAAAAAAABAgMEBREAEiEGQQcTFCIjUVJVlNIlYWOR8P/EABcBAAMBAAAAAAAAAAAAAAAAAAEDBAX/xAAdEQABBAMBAQAAAAAAAAAAAAABAAIEEQMxURIT/9oADAMBAAIRAxEAPwCDwQ1dRDHNT2y6SwyKHSRKGUqynkEHbyDrP0lw+kXf7Cb8ddn6GYDonp8FgP0+n7/xro5vX51/vWkILSLtZ5mOBqlXz0lw+kXf7Cb8dMRSLNEksZ3I4DKfiDqxLONpwwzg99V1udprqCltdRQ2KrS2xUlNUy1kcdTKJUenVpHZixjCqzMcADG3U8iOMNUdqiPmOW7GkDuDXSnKRhYqiNIvKgkNFDM+FAVFYmPIwBjJPPxGlQPcZ2bfSUuFQBvMooIcP3A90c/7k6kGlpH0d1O8t4tGllrqOXz0pbesij2JNsKmNuzAiAYI7aI2nrXqSbpat6VuIgq6CSh9IBVRmNqYAbVKFAC+P3yDgc840e8PprdT9WQyXqW1xW8U8oka4LkAspC+Xwfb3Fefl3aeM1nh8PkoFqbXPXRQJHthjzO1atSS8wcqGMRh4BzgjAxnQLy7ZRAA0v/Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAABQIGBwgAAwT/xAAtEAACAgEDAgMHBQEAAAAAAAABAgMEEQAFBhIhExRBMlFVYZTS8CIjJVJjkf/EABcBAAMBAAAAAAAAAAAAAAAAAAEDBAX/xAAdEQABBAMBAQAAAAAAAAAAAAABAAIEEQMxURIT/9oADAMBAAIRAxEAPwBjwRW7EMc1fbN0lhkUOkiUZSrKe4IPT3B0vym4fCN3+gm+3Uz8GYDhPHwWA/j6/r/mujnWv91/7rSEFpF2s8zHA1Sr55TcPhG7/QTfbrRFIs0SSxnqRwGU+8HViWcdJwwzg+uq67ntN6jV2uxS2K2m2xVK1mW3HHZlEqPXVpHZixjCqzMcADHTqeTHGGqO1RHzHLdjSB7g26V2SMLFYiSLwoHNKGZ8KAqKxMeRgDGSe/vGsoNuM7HrqViFQA+JSgh/X6gftHP53OnBpEwzGQCoJwMv7I7j2vl7/lnSPo7qd4bxcdSe5Ul8eOvtwkXskmIFMb+jAiEYYfg0S2nmvJJuLXeK7isFuhJR8oBajMTVsDpUoUAL4+eQcDJ7kakNbnHYeVTWo7/GEebb6McbRxBqsLxyJ5tekoQpePqCepAIGDoXvF3jUnE7UG0CnEjEmrVaHFxLHm2bxGbp6vD8v0ju2MYXGdAvJ2UQANL/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Newbie Trucker</div>
-                                                <div class="unlocked">6 Mar 2025</div>
+                                                <div>Apprentice Trucker</div>
+                                                <div class="unlocked">7 Mar 2025</div>
                                             </div>
-                                            <div class="description">Deliver 10 Cargo</div>
+                                            <div class="description">Deliver 100 Cargo</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <div>
+                                            <div class="description ellipsis">+2 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -2470,7 +2480,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Mar 2025, 21:18:55  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Mar 2025, 01:20:15  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
